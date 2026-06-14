@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20👋,%20I'm%20Suryateja%20Konduri&fontSize=40&fontColor=ffffff)
@@ -119,4 +118,3 @@ Machine Learning:
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
