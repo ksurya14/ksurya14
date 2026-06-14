@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20👋,%20I'm%20Suryateja%20Konduri&fontSize=40&fontColor=ffffff)
 
-<img src="https://komarev.com/ghpvc/?username=ksurya14&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
 <br>
 
